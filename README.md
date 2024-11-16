@@ -9,4 +9,4 @@
 
 Using pytorch, and a single training-testing script.
 
-![](https://github.com/andrew-data-git/repo/blob/main/screenshot.png)
+![](https://github.com/andrew-data-git/mnist_cnn/blob/main/screenshot.png)
