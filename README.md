@@ -5,7 +5,7 @@
 
 | Date Started | Date Completed |
 | ------ | ------ |
-| 16/11/2024 | --/11/2024 |
+| 16/11/2024 | 16/11/2024 |
 
 Using pytorch, and a single training-testing script.
 
